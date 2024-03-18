@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 469c24fdb3bd6431b92cc1465bd9166b, type: 3}
+  m_Name: RemoteConfigDataStoreAsset
+  m_EditorClassIdentifier: 
+  _rsKeyList: "[\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"76daa478-a684-4b24-b4fe-c3e1a7a5876d\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"MaxHealth\",\r\n      \"type\": \"float\",\r\n     
+    \"value\": 50.0\r\n    }\r\n  }\r\n]"
+  _rsLastCachedKeyList: "[\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"76daa478-a684-4b24-b4fe-c3e1a7a5876d\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"MaxHealth\",\r\n      \"type\": \"float\",\r\n     
+    \"value\": 50.0\r\n    }\r\n  }\r\n]"
+  _environments: "[\r\n  {\r\n    \"projectId\": \"ad5d65b0-501b-4111-9608-db44fa3eb7bd\",\r\n   
+    \"name\": \"production\",\r\n    \"id\": \"0d12d816-56c2-4c2e-92f6-98c9aeac87d3\",\r\n   
+    \"isDefault\": true,\r\n    \"createdAt\": \"2024-02-08T21:01:48Z\",\r\n    \"updatedAt\":
+    \"2024-02-08T21:01:48Z\"\r\n  }\r\n]"

@@ -1,0 +1,13 @@
+32x32 village prop sprites for platformer games.
+
+
+Includes:
+
+56 village props.
+27 pants, bushes and grasses.
+3 rocks.
+1 grass ground tileset.
+2 trees.
+4 different chests with open and close animations.
+
+Cainos

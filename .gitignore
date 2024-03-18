@@ -1,0 +1,9 @@
+.vsconfig
+2DPlatformer Win.sln
+Assembly-CSharp.csproj
+Assembly-CSharp-Editor-firstpass.csproj
+Assembly-CSharp-firstpass.csproj
+Library/
+Logs/
+obj/
+Packages/
